@@ -50,11 +50,11 @@
 
 <listPerson type="real">
 
-<person xml:id="GdaMontefeltro"> <persName>Guidobaldo Da Montefeltro</persName></person>
+<person xml:id="GdaMontefeltro"> <persName>Guidobaldo da Montefeltro</persName></person>
 <person xml:id="EGonzaga"> <persName>Elisabetta Gonzaga</persName></person>
-<person xml:id="FdaMontefeltro"> <persName>Federico Da Montefeltro</persName></person>
+<person xml:id="FdaMontefeltro"> <persName>Federico da Montefeltro</persName></person>
 <person xml:id="FdiGiorgioMartini"> <persName>Federico Di Giorgio Martini</persName></person><!--NO-->
-<person xml:id="GGenga"> <persName>Girolamo Genga</persName></person>
+<person xml:id="GGenga"> <persName>Gerolamo Genga</persName></person>
 <person xml:id="PdellaFrancesca"> <persName>Piero della Francesca</persName></person>
 <person xml:id="GSanti"> <persName>Giovanni Santi</persName></person>
 <person xml:id="LPacioli"> <persName>Luca Pacioli</persName></person>
@@ -224,7 +224,7 @@
 <person xml:id="FdeHorn"> <persName>Frederick de Horn</persName></person>
 <person xml:id="GiuseppeII"> <persName>Giuseppe II d'Asburgo-Lorena</persName></person>
 <person xml:id="CaterinalaGrande"> <persName>Caterina II di Russia</persName></person>
-<person xml:id="GGdeRossi"> <persName>Giovanni Gherardo De Rossi</persName></person>
+<person xml:id="GGdeRossi"> <persName>Giovanni Gherardo de Rossi</persName></person>
 <person xml:id="ACanova"> <persName>Antonio Canova</persName></person>
 <person xml:id="MCarlevarijs"> <persName>Marianna Carlevarijs</persName></person>
 <person xml:id="FSartori"> <persName>Felicità Sartori</persName></person>
