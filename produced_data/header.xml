@@ -53,12 +53,12 @@
 <person xml:id="GdaMontefeltro"> <persName>Guidobaldo da Montefeltro</persName></person>
 <person xml:id="EGonzaga"> <persName>Elisabetta Gonzaga</persName></person>
 <person xml:id="FdaMontefeltro"> <persName>Federico da Montefeltro</persName></person>
-<person xml:id="FdiGiorgioMartini"> <persName>Federico Di Giorgio Martini</persName></person><!--NO-->
-<person xml:id="GGenga"> <persName>Gerolamo Genga</persName></person>
+<person xml:id="FdiGiorgioMartini"> <persName>Federico di Giorgio Martini</persName></person><!--NO-->
+<person xml:id="GGenga"> <persName>Girolamo Genga</persName></person>
 <person xml:id="PdellaFrancesca"> <persName>Piero della Francesca</persName></person>
 <person xml:id="GSanti"> <persName>Giovanni Santi</persName></person>
 <person xml:id="LPacioli"> <persName>Luca Pacioli</persName></person>
-<person xml:id="LdiCanossa"> <persName>Ludovico da Canossa</persName></person>
+<person xml:id="LdiCanossa"> <persName>Louis da Canossa</persName></person>
 <person xml:id="OFregoso"> <persName>Ottaviano Fregoso</persName></person>
 <person xml:id="GdeMedici"> <persName> Giuliano de' Medici</persName></person>
 <person xml:id="FFregoso"> <persName>Federico Fregoso</persName></person>
@@ -998,6 +998,10 @@
 <item xml:id="giuditta-gentileschi" type="painting" sameAs="http://www.wikidata.org/entity/Q2247406">Giuditta che decapita Oloferne, Artemisia Gentileschi</item>
 <item xml:id="autoritratto-pittura-gentileschi" type="painting" sameAs="http://www.wikidata.org/entity/Q3630745">Autoritratto in veste di pittura, Artemisia Gentileschi</item>
 <item xml:id="battesimo-sirani" type="painting" sameAs="http://www.wikidata.org/entity/Q120512327">Battesimo di Cristo, Elisabetta Sirani</item>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 793dd801c8d6958e56a8ec75fb1cbc79d0e51e20
 <item xml:id="madonna-sirani" type="painting">Madonna col Bambino, Santa Elisabetta e Santa Margherita, Elisabetta Sirani</item>
 <item xml:id="amorino-trionfante-sirani" type="painting" sameAs="http://www.wikidata.org/entity/Q21725529">Amorino trionfante, Elisabetta Sirani</item>
 <item xml:id="cupido-sirani" type="painting" sameAs="http://www.wikidata.org/entity/Q3937671">Ritratto di Vincenzo Ferdinando Ranuzzi in veste di Cupido, Elisabetta Sirani</item>
@@ -1043,12 +1047,17 @@
 <item xml:id="MarieAntoinetteportraits" type="painting">Marie-Antoinette, Queen of France, portraits</item>
 <item xml:id="Selfportrait" type="painting">Self-portrait, Élisabeth Vigéé-Le Brun, 1787</item>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <item xml:id="MadonnadellaSeggiola" type="painting">Madonna della Seggiola, 1514</item>
 <item xml:id="PortraitofMadameDuBarry" type="painting" sameAs="http://www.wikidata.org/entity/Q20810265">Portrait of Madame Du Barry, 1781</item> 
 =======
 <item xml:id="MadonnadellaSeggiola" type="painting">Madonna della Seggiola, Raffaello Sanzio, 1514</item>
 <item xml:id="PortraitofMadameDuBarry" type="painting">Portrait of Madame Du Barry, 1781</item> 
 >>>>>>> 02df9f01ebd6f5e38f02b84b826bed7ade71ad92
+=======
+<item xml:id="MadonnadellaSeggiola" type="painting">Madonna della Seggiola, 1514</item>
+<item xml:id="PortraitofMadameDuBarry" type="painting" sameAs="http://www.wikidata.org/entity/Q46625567">Portrait of Madame Du Barry, 1781</item> 
+>>>>>>> 793dd801c8d6958e56a8ec75fb1cbc79d0e51e20
 
 <!-- Le bestie di Rosa Bonheur -->
 <item xml:id="BuffaloBill" type="painting" sameAs="http://www.wikidata.org/entity/Q87752255">Portrait of Col. William F. Cody (Buffalo Bill), 1889 </item>
@@ -1118,7 +1127,7 @@
 <item xml:id="Poesiasenzatitolo">Poesia senza titolo</item>
 <item xml:id="Senzatitolo">Senza titolo</item>
 <item xml:id="Hon">HON</item>
-<item xml:id="Nanafontana">Nana fontana</item>
+<item xml:id="Nanafontana" sameAs="http://www.wikidata.org/entity/Q121334798">Nana fontana</item>
 <item xml:id="Nanapiscina">Nana piscina</item>
 <item xml:id="Golemparcogiochi">Golem parco giochi</item>
 <item xml:id="Giardinodeitarocchi">Giardino dei Tarocchi</item>
@@ -1128,13 +1137,13 @@
 <item xml:id="Bricolage">Bricolage</item>
 <item xml:id="Ringaroundarosie">Ringaround Arosie</item>
 <item xml:id="Fehlbaum">Fehlbaum</item>
-<item xml:id="Maxxidiroma">MAXXI di Roma</item>
+<item xml:id="Maxxidiroma" sameAs="http://www.wikidata.org/entity/Q1881229">MAXXI di Roma</item>
 <item xml:id="Riconversionedellagaredorsay">riconversione della Gare d’Orsay</item>
 <item xml:id="Museodartecatalana">Museo d’arte catalana</item>
-<item xml:id="Palazzograssi">Palazzo Grassi</item>
-<item xml:id="Scuderiedelquirinale">Scuderie del Quirinale</item>
-<item xml:id="MuseedorsayParis">Musée d’Orsay a Parigi</item>
-<item xml:id="Piazzalecadorna">piazzale Cadorna</item>
+<item xml:id="Palazzograssi" sameAs="http://www.wikidata.org/entity/Q907964">Palazzo Grassi</item>
+<item xml:id="Scuderiedelquirinale" sameAs="http://www.wikidata.org/entity/Q26840128">Scuderie del Quirinale</item>
+<item xml:id="MuseedorsayParis" sameAs="http://www.wikidata.org/entity/Q23402">Musée d’Orsay a Parigi</item>
+<item xml:id="Piazzalecadorna"  sameAs="http://www.wikidata.org/entity/Q3902479">piazzale Cadorna</item>
 <item xml:id="Costellazioni">Costellazioni</item>
 
 </list>
