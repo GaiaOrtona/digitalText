@@ -1042,8 +1042,13 @@
 <year>1779</year></item>
 <item xml:id="MarieAntoinetteportraits" type="painting">Marie-Antoinette, Queen of France, portraits</item>
 <item xml:id="Selfportrait" type="painting">Self-portrait, Élisabeth Vigéé-Le Brun, 1787</item>
+<<<<<<< HEAD
 <item xml:id="MadonnadellaSeggiola" type="painting">Madonna della Seggiola, 1514</item>
 <item xml:id="PortraitofMadameDuBarry" type="painting" sameAs="http://www.wikidata.org/entity/Q20810265">Portrait of Madame Du Barry, 1781</item> 
+=======
+<item xml:id="MadonnadellaSeggiola" type="painting">Madonna della Seggiola, Raffaello Sanzio, 1514</item>
+<item xml:id="PortraitofMadameDuBarry" type="painting">Portrait of Madame Du Barry, 1781</item> 
+>>>>>>> 02df9f01ebd6f5e38f02b84b826bed7ade71ad92
 
 <!-- Le bestie di Rosa Bonheur -->
 <item xml:id="BuffaloBill" type="painting" sameAs="http://www.wikidata.org/entity/Q87752255">Portrait of Col. William F. Cody (Buffalo Bill), 1889 </item>
